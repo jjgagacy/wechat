@@ -50,7 +50,7 @@ Special thanks to the generous sponsorship by:
 ## Installation
 
 ```shell
-composer require "overtrue/wechat:~3.1" -vvv
+composer require "jjgagacy/wechat:~1.0" -vvv
 ```
 
 ## Usage
