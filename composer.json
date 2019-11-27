@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/wechat",
+    "name": "jjgagacy/wechat",
     "description": "微信SDK",
     "keywords": [
         "wechat",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "admin",
+            "email": "admin@163.com"
         }
     ],
     "require": {
